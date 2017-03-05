@@ -1,0 +1,11 @@
+{
+  "name": "instrumental_image_library",
+  "version": "1.0.0",
+  "description": "Perform image transformations",
+  "main": "node.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Stephan Zharkov",
+  "license": "ISC"
+}
